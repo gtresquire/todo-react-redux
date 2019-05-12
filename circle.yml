@@ -16,4 +16,4 @@ deployment:
     branch: master
     commands:
       - ./node_modules/.bin/firebase deploy --token $FIREBASE_TOKEN
-# set up firebase token
+# set up firebase token - research
